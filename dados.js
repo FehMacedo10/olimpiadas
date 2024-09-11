@@ -18,7 +18,71 @@ let dados = [
         link: "https://pt.wikipedia.org/wiki/Rebeca_Andrade",
         tags: "ginasta ginástica ouro"
 
+    },
+
+    {
+        titulo: "Ana Marcela Cunha",
+        descricao: "Nadadora brasileira, multicampeã mundial e pan-americana em águas abertas, conhecida por sua resistência e estratégia de prova.",
+        link: "https://pt.wikipedia.org/wiki/Ana_Marcela_Cunha",
+        tags: "natação águas abertas brasil"
+    },
+    
+    {
+        titulo: "Isaquias Queiroz",
+        descricao: "Canoísta brasileiro, medalhista olímpico e mundial, conhecido por sua força e velocidade nas provas de canoagem slalom.",
+        link: "https://pt.wikipedia.org/wiki/Isaquias_Queiroz",
+        tags: "canoagem slalom brasil"
+    },
+    
+    {
+        titulo: "Martine Grael e Kahena Kunze",
+        descricao: "Dupla brasileira de vela, campeãs olímpicas e mundiais na classe 49erFX, conhecidas por sua sincronia e técnica apurada.",
+        link: "https://pt.wikipedia.org/wiki/Martine_Grael", 
+        tags: "vela brasil olímpico"
+    },
+    
+    {
+        titulo: "Aline Barros",
+        descricao: "Ginasta brasileira, campeã mundial e pan-americana, conhecida por sua elegância e dificuldade nas execuções.",
+        link: "https://pt.wikipedia.org/wiki/Aline_Barros_(ginasta)",
+        tags: "ginástica artística brasil"
+    },
+    
+    {
+        titulo: "Arthur Nory Mariano",
+        descricao: "Ginasta brasileiro, medalhista olímpico e mundial, conhecido por suas acrobacias e força física.",
+        link: "https://pt.wikipedia.org/wiki/Arthur_Nory_Mariano",
+        tags: "ginástica artística brasil"
+    },
+
+    {
+        titulo: "Leandro Barbosa",
+        descricao: "Basktebolista brasileiro, campeão da NBA, conhecido por sua velocidade e habilidade para finalizar as jogadas.",
+        link: "https://pt.wikipedia.org/wiki/Leandro_Barbosa",
+        tags: "basquete brasil nba"
+    },
+    
+    {
+        titulo: "Adhemar Ferreira da Silva",
+        descricao: "Atleta brasileiro, bicampeão olímpico no salto triplo, considerado um dos maiores atletas brasileiros de todos os tempos.",
+        link: "https://pt.wikipedia.org/wiki/Adhemar_Ferreira_da_Silva",
+        tags: "atletismo brasil salto triplo"
+    },
+
+    {
+        titulo: "Robert Scheidt",
+        descricao: "Velista brasileiro, medalhista olímpico em diversas edições, considerado um dos maiores velejadores da história.",
+        link: "https://pt.wikipedia.org/wiki/Robert_Scheidt",
+        tags: "vela brasil olímpico"
+    },
+
+    {
+        titulo: "Maurren Maggi",
+        descricao: "Atleta brasileira, medalhista olímpica no salto em distância, a primeira brasileira a conquistar uma medalha de ouro individual em uma Olimpíada.",
+        link: "https://pt.wikipedia.org/wiki/Maurren_Maggi",
+        tags: "atletismo brasil salto em distância"
     }
-];
+]
+
 
 
